@@ -18,6 +18,11 @@ OTP相关
    Scribe only supports postgres at the moment, if you want to use another database adapter please contribute!
 
 
+- `etco <https://github.com/elixir-lang/ecto>`_
+
+  Ecto is a domain specific language for writing database queries in Elixir.
+
+
 博客
 -------------------
 
