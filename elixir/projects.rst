@@ -23,6 +23,12 @@ OTP相关
   Ecto is a domain specific language for writing database queries in Elixir.
 
 
+Web 应用
+------------------
+
+- `Elixir Web Shell <https://github.com/glejeune/ews>`_
+
+
 博客
 -------------------
 
