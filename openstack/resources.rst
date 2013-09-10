@@ -1,0 +1,1 @@
+- `OpenStack Hacker养成指南 <http://www.ustack.com/blog/openstack_hacker/>`_
