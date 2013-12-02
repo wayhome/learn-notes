@@ -29,6 +29,14 @@ Web 应用
 - `Elixir Web Shell <https://github.com/glejeune/ews>`_
 
 
+其他
+-------------------
+
+- `Future <https://github.com/eproxus/future>`_
+
+- `Google Protocol Buffer to Elixir <https://github.com/azukiapp/elixir-protobuf>`_
+
+
 博客
 -------------------
 
