@@ -13,3 +13,5 @@ Projects
 - `An image resizing application server <https://github.com/agschwender/pilbox>`_
 
 - `Process Isolation in Python <https://github.com/alexflint/process-isolation>`_
+
+- `数据可视化工具 Vincent <https://github.com/wrobstory/vincent>`_
